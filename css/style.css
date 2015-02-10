@@ -138,8 +138,6 @@ article {
   -webkit-box-shadow: 1px 2px 3px #ddd;
   box-shadow: 1px 2px 3px #ddd;
   background: #fff;
-  height: 1000px;
-  overflow: hidden;
 }
 article.page {
   padding-left: 20px;
