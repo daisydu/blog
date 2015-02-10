@@ -797,3 +797,7 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
+
+.done{
+  text-decoration:line-through;
+}
