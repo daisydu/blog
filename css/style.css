@@ -42,7 +42,7 @@ h2 {
 }
 h3 {
   font-size: 1.3em;
- }
+}
 a {
   text-decoration: none;
   color: #258fb8;
@@ -797,4 +797,3 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
-
